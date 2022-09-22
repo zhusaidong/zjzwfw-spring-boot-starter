@@ -1,0 +1,11 @@
+zjzwfw:
+  base:
+    app-id: a
+    government-extranet: false
+  wechat-sso:
+    access-key: b
+    secret-key: c
+  personal-sso:
+    access-key: d
+    secret-key: e
+

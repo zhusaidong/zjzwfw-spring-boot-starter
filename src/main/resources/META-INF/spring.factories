@@ -1,0 +1,2 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  cn.zhusaidong.zjzwfw.starter.configure.ZjzwfwAutoConfigure
